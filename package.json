@@ -1,0 +1,12 @@
+{
+    "name": "Node-Red-Tech-Challenge",
+    "description": "Tech Challenge 1 - FIAP",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows.json",
+            "credentialsFile": "flows_cred.json"
+        }
+    }
+}
